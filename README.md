@@ -2,12 +2,12 @@
 
 This repository contains a MongoDB-backed data science project analyzing whether economic indicators like unemployment rate can predict presidential election outcomes in key swing states. The project includes a data creation pipeline, MongoDB Atlas database, machine learning model, and visualizations.
 
-**Name:** Wissal Khlouf
-**NetID:** hta4yb
-**DOI:** (add after Zenodo registration)
-**Press Release:** [press_release.md](./press_release.md)
-**Pipeline:** [pipeline.ipynb](./pipeline.ipynb)
-**License:** MIT — [LICENSE](./LICENSE)
+**Name:** Wissal Khlouf  
+**NetID:** hta4yb  
+**DOI:** 10.5281/zenodo.19824789  
+**Press Release:** [press_release.md](./press_release.md)  
+**Pipeline:** [pipeline.ipynb](./pipeline.ipynb)  
+**License:** MIT — [LICENSE](./LICENSE)  
 
 ## Problem Definition
 
