@@ -4,7 +4,7 @@ This repository contains a MongoDB-backed data science project analyzing whether
 
 **Name:** Wissal Khlouf  
 **NetID:** hta4yb  
-**DOI:** 10.5281/zenodo.19824789  
+**DOI:** [10.5281/zenodo.19824789](https://doi.org/10.5281/zenodo.19824789) 
 **Press Release:** [press_release.md](./press_release.md)  
 **Pipeline:** [pipeline.ipynb](./pipeline.ipynb)  
 **License:** MIT — [LICENSE](./LICENSE)  
